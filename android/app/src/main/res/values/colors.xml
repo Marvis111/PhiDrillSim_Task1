@@ -1,0 +1,17 @@
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="textColorPrimary">#FFFFFF</color>
+    <color name="windowBackground">#F5F5F5</color>
+    <color name="navigationBarColor">#000000</color>
+    <color name="statusBarColor">#3700B3</color>
+
+    <!-- Dark Theme Colors -->
+    <color name="colorPrimaryDarker">#000000</color>
+    <color name="colorAccentDark">#BB86FC</color>
+    <color name="textColorPrimaryDark">#FFFFFF</color>
+    <color name="windowBackgroundDark">#303030</color>
+    <color name="navigationBarColorDark">#000000</color>
+    <color name="statusBarColorDark">#121212</color>
+</resources>

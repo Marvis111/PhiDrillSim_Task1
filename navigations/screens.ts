@@ -1,5 +1,10 @@
 export default {
-    HOME:"HOME",
-    CalculationTable:"CalculationTable",
-    Plot3D:'Plot3D'
-}
+    HOME: "Home",
+    CalculationTable: "CalculationTable",
+    Plot3D: "Plot3D",
+    TARGETS: "Targets",
+    WELL_PLAN: "WellPlan",
+    NET_PLOTS: "NETPlots",
+    PATH_SCALING: "PathScaling"
+  };
+  

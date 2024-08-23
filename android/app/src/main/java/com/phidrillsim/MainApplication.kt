@@ -1,4 +1,4 @@
-package com.webview
+package com.phidrillsim
 
 import android.app.Application
 import com.facebook.react.PackageList
