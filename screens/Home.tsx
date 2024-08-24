@@ -43,7 +43,6 @@
 //     }
   
 //     let atLeastOneTargetFilled = false;
-  
 //     for (let i = 0; i < targets.length; i++) {
 //       if (targets[i].north && targets[i].east && targets[i].tvd) {
 //         atLeastOneTargetFilled = true;
